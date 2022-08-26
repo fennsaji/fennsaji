@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fennsaji&label=Profile%20views&color=0e75b6&style=flat" alt="fennsaji" /> </p>
+
 [![Fenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fennsaji&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
